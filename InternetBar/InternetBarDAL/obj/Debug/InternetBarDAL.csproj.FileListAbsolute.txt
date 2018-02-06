@@ -1,0 +1,5 @@
+F:\C#窗体程序\InternetBar\InternetBarDAL\bin\Debug\InternetBarDAL.dll
+F:\C#窗体程序\InternetBar\InternetBarDAL\bin\Debug\InternetBarDAL.pdb
+F:\C#窗体程序\InternetBar\InternetBarDAL\obj\Debug\InternetBarDAL.dll
+F:\C#窗体程序\InternetBar\InternetBarDAL\obj\Debug\InternetBarDAL.pdb
+F:\C#窗体程序\InternetBar\InternetBarDAL\obj\Debug\InternetBarDAL.csprojResolveAssemblyReference.cache

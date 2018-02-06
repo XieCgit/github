@@ -1,0 +1,7 @@
+F:\C#窗体程序\InternetBar\InternetBarBLL\bin\Debug\InternetBarBLL.dll
+F:\C#窗体程序\InternetBar\InternetBarBLL\bin\Debug\InternetBarBLL.pdb
+F:\C#窗体程序\InternetBar\InternetBarBLL\bin\Debug\InternetBarDAL.dll
+F:\C#窗体程序\InternetBar\InternetBarBLL\bin\Debug\InternetBarDAL.pdb
+F:\C#窗体程序\InternetBar\InternetBarBLL\obj\Debug\InternetBarBLL.csprojResolveAssemblyReference.cache
+F:\C#窗体程序\InternetBar\InternetBarBLL\obj\Debug\InternetBarBLL.dll
+F:\C#窗体程序\InternetBar\InternetBarBLL\obj\Debug\InternetBarBLL.pdb
